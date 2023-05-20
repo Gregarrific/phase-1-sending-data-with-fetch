@@ -26,38 +26,8 @@
   "users": [
     {
       "name": "greg",
-      "email": "greg.dutton@gmail.com",
+      "email": "greg@emailserver.com",
       "id": 1
-    },
-    {
-      "name": "Nicole",
-      "email": "nicole.dansereau@gmail.com",
-      "id": 2
-    },
-    {
-      "name": "Barney",
-      "email": "jfb@gci.net",
-      "id": 3
-    },
-    {
-      "name": "Lance",
-      "email": "lance.powell@gmail.com",
-      "id": 4
-    },
-    {
-      "name": "Gregorio",
-      "email": "greg.dutton@gmail.com",
-      "id": 5
-    },
-    {
-      "name": "Barney",
-      "email": "jfb@gci.net",
-      "id": 6
-    },
-    {
-      "name": "Lance",
-      "email": "lance.powell@gmail.com",
-      "id": 7
     }
   ],
   "robots": [
